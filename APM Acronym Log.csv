@@ -1,0 +1,176 @@
+Acronym,Description,Notes
+(D)FMEA,(Design) Failure Mode and Effect Analysis,
+AAR,Association of American Railroads,
+AESS,Auto Engine Start Stop,
+BMS,Battery Management System,
+BOM,Bill of Materials,
+CCA,Common Control Architecture,
+CDRL,Contract Data Requirement List,
+CFD,Consolidated Functional Display,
+CIO,Consolidated Input / Output,panel on a locomotive
+CP,Control Point (part of RAILS),There are 6 total CPs: CP0 - CP5
+CP,Critical Part ,Requires special approval when updating a part
+CTS,Crank Transfer Switch,
+DFSS,Design for Six Sigma,
+DRB,Design Record Book,SharePoint site for Design Review materials: https://wabtec.sharepoint.com/sites/DesignRecordBook/
+DRS,Drawing Retrieval System,webtool: https://drs.corp.wabtec.com/cgi-bin/main.pl
+EAB,Electronic Air Brake,
+ECA,Enhanced Control Architecture,
+ECC,Emissions Critical Component,Requires special approval when updating a part
+ECN,Engineering Change Notice,
+ECR,Engineering Change Request,
+EDOT,Engineering Design on Track,
+eDR,Electronic Design Review,webtool: http://edr.corp.wabtec.com/edr/pages/drtHome.jsf
+EOT(D),End of Train (Device),
+F/LY,Failures Per Locomotive Year,
+FDD,Firmware Detail Design Document,
+FDR,Formal Design Review,
+FTON,Field Test on Network,
+GoLINC,"GE on-board Locomotive Information, Networking, Communications",Wayside communication device
+HITL sim,Human-in-the-loop simulation,Simulation that requires human interaction (Erie Building 63 sim lab for example)
+HMI,Human-Machine Interface,
+HOT(D),Head of Train (Device),
+ICD,Interface Control Document,
+I-ETMS,Interoperable - Electronic Train Management System,
+ITR,Informal Technical Review,
+MCA,Modular Control Architecture,
+MI,Manufacturing Instructions,
+NPI,New Product Introduction,
+NRE,Non-recurring engineering,
+OHV,Off-Highway Vehicle,The large mining trucks that haul various resources from mines around the world.
+PE,Principle Engineer,
+PO,Purchase Order,
+PPAP,Production Parts Approval Process,
+PTC,Positive Train Control,
+RAILS,Robust Agile Integrated Lifecycle System,Business process for Digital Electronics (similar to Tollgate business process)
+RNR,Reward and Recongnition,
+RSDS,Requisition Subsystem Design Specification,
+SCA,Simplified Control Architecture,
+SCIO,Super CIO (Consolidated Input / Output),
+SCN,Software Change Notice,
+SDIS,Smart DISplay or Smart Display Information System ,
+SDS,Subsystem Design Specification,
+SFS,System Functional Specification (Spec),
+TCD,Thin Client Display,
+TG,Tollgate,"Toolgate business process. Examples: TG2, TG440, TG535, etc."
+V&V,Verification and Validation,
+vSIM,Virtual Simulation Platform,
+SOX,Sarbones-Oxley,Federal regulation regarding record keeping and reporting
+GAAP,Generally Accepted Accounting Principles,
+Accrual/Accrue,Account for on regular basis,We often create a yearly reserve that is discussed in budget and then accrue this amount/12 monthly
+COGS,Cost of Goods Sold,"Accounting term used to describe expenses relating to what is sold, interchangeable with COS"
+COS,Cost of Sales,"Accounting term used to describe expenses relating to what is sold, typically services"
+Margins,Revenue-Expenses,Accounting term that shows some sort of profit i.e. Gross margin Rev-COGS
+OPEX,Operating Expenses/Expenditures,"Expenses that are a part of regular day-day, costs of running a business"
+CAPEX,Capital Expense/Expenditures,Investment Spending
+SG&A,"Selling, General, Administrative Expense",Part of OPEX
+EBT,Earnings Before Tax,
+EBIT,Earnings Before Interest and Tax,
+Bottom Line,Net Income,bottom line of the income statement
+AR,"Accounts Recievable, Recievables",asset to be paid to us
+AP,"Accounts Payable, Payables",liability we owe to another party
+FP&A,Financial Planning & Analysis,
+JE,Journal Entry,singular accounting entry that debits one account and credits another an equal amount
+GL,General Ledger,main accounting record
+EPS,Earnings Per Share,Net Income/ Number outstanding shares
+Backlog,Future sales,
+RPO,Remaining Performance Obligations,"GAAP version of backlog, John/Rafael use Backlog "
+DC,Data Center,
+ERP,Enterprise Resources Planning system,
+EBS,E-Business Suite (Oracle),
+SGI,Single Global Instance,
+SIM,Standard Interface Module,
+GAMS,Global Application Maintenance Services,
+P&A,Performance & Availability,
+P&S,Performance & Scalability,
+RAC,Oracle Real Application Cluster,
+RPO,Recovery Point Objective,
+RTO,Recovery Time Objective,
+RTP,Release to Production,
+DR,Disaster Recovery,
+OBIEE,Oracle Business Intelligence Enterprise Edition,
+GMR,General Maintenance Request,
+MPR,Management Program Review,
+MGPP,Multi-Generational Project Plan,
+RMA ,Return Material Authorization,"Specific for hardware, not all customers can submit one"
+INT,Integration enviroment,Lowest software enviroment for testing
+UAT,User Acceptence Testing enviroment,User tested enviroment that closelsy recembeles the finished copy known as Prod
+PROD,Production enviroment,"The live finished version of a project, what you (as a user) physically sees and interacts with"
+DUNS,Dunnen Bradstreet number,An external identified number that idenfieies companies based on a unique number
+CPQ,"Configure, Price, Qoute",One system to handle different currencies and things of that nature
+QTC ,Qoute to Cash,
+POS,Point of Sale,
+CRM,Customer Relationship Management ,
+MCA,Modular Control Architecture,
+D&A,Data & Analytics ,
+TO,Trip Optimizer,Pillar App
+MCS,Management Console System,Pillar App
+MRY,My Rail Yard,Pillar App
+RMD,Remote Monitoring & Diagnostics,Pillar App
+WIM,???Wabtec Incident Management,
+SCC,Supply Chain Connect ,
+TPM,Technical Product Manager,
+MTA,Material Technical Advisor,Material manager on shop floor
+PTA,Production Technical Advisor,Shop floor supervisor
+QTA,Quality Technical Advisor,Quality supervisor on shop floor 
+BL,Business Leader,
+EHS,Environmental Health & Safety,
+NCMR,Non-conforming material report,Tool used in Reliance 
+NPI,New Product Introduction,
+PCR,Product change request,
+PO,Purchase order,
+AAR,Association of American Railroads,
+ABS,American Bureau of Shipping ,
+APR,Annual Percentage Rate,
+BOM,Bill of Materials,
+CAS,Consolidated Supplier List,
+DE,Design Engineer ,
+DPMO,Defects Per Million Opportunities,
+DRS,Drawing Retrieval System,(Web tool)
+FTK,Finance Toolkit,(Web tool)
+GCL,Global Commodity Leader ,
+GSL,Global Supplier List,
+GST ,General Sourcing Tool,(Access program)
+IOP,Internal Operating Price,
+LCC,Low Cost Country,
+LOB,Line of Balance,
+LOI,Letter of Intent,
+LTA,Long Term Agreement,
+MOQ,Minimum Order Quantity,
+MOU,Memorandum of Understanding,
+NCI,New Component Introduction,
+NCMR,Non-Comforming Material Request,
+NCNR,"Non-cancelable, Non-returnable",
+NDA,Non-Disclosure Agreement,
+NPI,New Product Introduction,
+PA,Purchase Agreement,
+P&E,Plant and Equipment,
+P/N,Part Number,
+PO ,Purchase Order,
+DOA,Delegation of Authority,
+PPAP ,Production Part Approval Process,
+PPV,Purchase Price Variance,
+PQE,Part Quantity Exception ,
+PST ,Project Saving Tracker (Web tool),
+QFD,"Quality, Function, Deployment",
+RFI,Request for Information,
+RFP,Request for Proposal,
+RFQ,Request for Quote,
+ROW,Rest of World,
+SA,Supply Agreement,
+SAP,Supplier Accountability Process ,
+SCC,Supply Chain Connect,(Web tool)
+SCP,Supplier Collaboration Portal,
+SDR,Supplier Deviation Request,
+SPF,Sourcing Price Feed,
+SQE,Supplier Quality Engineer ,
+SR,Sourcing Rule,
+TPV,Total Project Value,
+T's and C's,Terms and Conditions,
+YOY,Year over Year,
+PTA (Materials term),Premium Transportation Authorization,
+TXO/TXM,Mining Facility,
+TXL,TX Locomotive Facility,
+TXW,TX Mining Warehouse,
+TXD,TX Locomotive Warehouse,
+GHD,Hardinger,
