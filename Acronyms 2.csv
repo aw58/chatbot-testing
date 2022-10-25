@@ -1,4 +1,4 @@
-ABC,"A CLASS ITEMS, B CLASS ITEMS, C CLASS ITEMS: The classification that a particular part gets based on planned or historic usage."
+ABC,"A CLASS ITEMS B CLASS ITEMS C CLASS ITEMS: The classification that a particular part gets based on planned or historic usage."
 AED,ACCEPTABLE EARLY DAYS: A number of working days that orders are allowed to arrive early. Reschedule out messages will be suppressed if the delta between order and need is less than the allowed number.
 AP,ACCOUNTS PAYABLE: Accounts Payable
 AR,ACCOUNTS RECEIVABLE
@@ -7,7 +7,7 @@ AMR,ADVANCED MATERIAL REQUEST: Ordering materials before the release of the form
 APQP,ADVANCED PRODUCT QUALITY PLANNING: 
 ASCP,ADVANCED SUPPLY CHAIN PLANNING: Advanced Supply Chain Planning
 AM,AFTERMARKET
-APICS ,"AMERICAN PRODUCTION & INVENTORY CONTROL SOCIETY: Founded in 1957 -The Association for Operations Management builds operations management excellence in individuals and enterprises through superior education and training, internationally recognized certifications, comprehensive resources, and a worldwide network of accomplished industry professionals."
+APICS,"AMERICAN PRODUCTION & INVENTORY CONTROL SOCIETY: Founded in 1957 -The Association for Operations Management builds operations management excellence in individuals and enterprises through superior education and training, internationally recognized certifications, comprehensive resources, and a worldwide network of accomplished industry professionals."
 ATS,APPLICATION TRACKING SYSTEM: A human resources software that acts as a database for job applicants
 ASL,APPROVED SUPPLIER LIST: The Supplier who has met Wabtec's part specifications and is approved for us to purchase production parts from
 APAC,ASIA PACIFIC REGION
@@ -69,7 +69,7 @@ FMEA,FAILURE MODES & EFFECTS ANALYSIS
 FG,FINISHED GOODS
 FGI,FINISHED GOODS INVENTORY: Finished Goods Inventory
 FAI,FIRST ARTICLE INSPECTION: First Article Inspection
-FDS,"FIXED DAY SUPPLY: Sometimes called ìperiod of supply,î tells planning to generate planned orders to cover requirements for a certain number of working days. 
+FDS,"FIXED DAY SUPPLY: Sometimes called ‚Äúperiod of supply,‚Äù tells planning to generate planned orders to cover requirements for a certain number of working days. 
 This will limit the total number of orders that are generated over time, but will result in overall higher inventory levels; consider using it for inexpensive items where the cost of ordering exceeds the carrying cost of the early inventory."
 3Fs,"FIXED LOCATION, FIXED ITEMS, FIXED QUANTITY: "
 FLM,FIXED LOT MULTIPLIER
@@ -113,7 +113,7 @@ MFG,MANUFACTURING: Production of a component
 mBOM,MANUFACTURING BILL OF MATERIALS: A manipulated bill of materials to meet manufacturing needs
 MI,MANUFACTURING INSTRUCTION: Instructions on how to build a component
 MO,MANUFACTURING ORDER
-MES,MANUFACTURING†EXECUTION SYSTEMS : Computerized systems used in†manufacturing†to track and document the transformation of raw materials to finished goods.
+MES,MANUFACTURING¬†EXECUTION SYSTEMS : Computerized systems used in¬†manufacturing¬†to track and document the transformation of raw materials to finished goods.
 MP,MARKET PRICE
 MBTA,MASSACHUSETTS BAY TRANSPORTATION AUTHORITY: 
 MPS,MASTER PRODUCTION SCHEDULE
@@ -139,9 +139,9 @@ NIL,NOT IN LOCATION
 OHV,OFF HIGHWAY VEHICLE
 OH,ON HAND: # of parts in house and available for use
 OJT,ON THE JOB TRAINING
-OTD,ON TIME DELIVERY: Wabtec measures this to†Customer PO Dock Date
+OTD,ON TIME DELIVERY: Wabtec measures this to¬†Customer PO Dock Date
 OTS,ON TIME SHIPPING
-OTP,ON TIME TO PROMISE: Wabtec measures this to†latest†Promise†Date
+OTP,ON TIME TO PROMISE: Wabtec measures this to¬†latest¬†Promise¬†Date
 OR,OPERATIONAL RATIO
 O&T,OPERATIONS & TECHNOLOGY
 OTR,ORDER TO REMITTANCE: 
@@ -158,7 +158,6 @@ PPE,PERSONAL PROTECTIVE EQUIPMENT: Equipment worn to minimize exposure to hazard
 PFEP,PLAN FOR EVERY PART
 PSR,PLANNING STATUS REPORT
 PTF,"PLANNING TIME FENCE : A point in time denoted in the planning horizon of the master scheduling process that marks a boundary inside of which changes to the schedule may adversely affect component schedules.
-
 ORACLE VERBIAGE / M3 VERBIAGE: Planning Time Fence (PTF)"
 POC,"POINT OF CONTACT: Individual who should be contacted for questions/concerns, etc."
 PPLT,POST PROCESSING LEAD TIME: The time it takes to put away purchased material after it is received. 
@@ -181,7 +180,7 @@ PM,PROJECT MANAGEMENT
 PMO,PROJECT MANAGEMENT OFFICE
 PRJ,PROJECTS
 POD,"PROOF OF DELIVERY: When a receipt has not been made but the Supplier is saying it delivered, you need to obtain a copy of the Proof of Delivery; i.e. Screenshot of UPS Tracked Shipment showing Delivery date, Time and Signature"
-PO,"PURCHASE ORDER: The purchaserís authorization used to formalize a purchase transaction with a supplier. A purchase order, when given to a supplier, should contain statements of the name, part number, quantity, description, and price of the goods or services ordered; agreed to terms as to payment, discounts, date of performance, and transportation; and all other agreements pertinent to the purchase and its execution by the supplier."
+PO,"PURCHASE ORDER: The purchaser‚Äôs authorization used to formalize a purchase transaction with a supplier. A purchase order, when given to a supplier, should contain statements of the name, part number, quantity, description, and price of the goods or services ordered; agreed to terms as to payment, discounts, date of performance, and transportation; and all other agreements pertinent to the purchase and its execution by the supplier."
 QMS,QUALITY MANAGEMENT SYSTEM
 QSW,QUALITY SYSTEMS WORKSCOPE
 QCD,"QUALITY, COST, DELIVERY"
@@ -202,7 +201,7 @@ R&O,RISKS AND OPPORTUNITIES
 ROQ,ROUND ORDER QTY FLAG
 SS ,SAFETY STOCK
 S&OP/SOP,SALES & OPERATIONS PLANNING: A process to develop tactical plans that provide management the ability to strategically direct its business to achieve competitive advantage on a continuous basis by integrating customer-focused marketing plans for new and existing products with the management of the supply chain
-S&OP,SALES AND OPERATIONS PLANNING†
+S&OP,SALES AND OPERATIONS PLANNING¬†
 SI&OP,"SALES, INVENTORY & OPERATIONS PLANNING: "
 SIOP,"SALES, INVENTORY, OPERATIONS PLAN"
 2H,SECOND HALF OF YEAR
@@ -219,7 +218,7 @@ SOP,STANDARD OPERATING PROCEDURE: The instructions on how something should be do
 SWCS,STANDARD WORK COMBINATION SHEET
 SW,STANDARD(IZED) WORK
  ,STO FIXED LOT MULTIPLE
-STRAP,"STRATEGIC BUSINESS PLAN: A Wabtec internal process used to look at the strategy for the upcoming 3 ñ 5 years; developing goals and the strategies to implement these goals (commercial, marketing, technology, etc.)"
+STRAP,"STRATEGIC BUSINESS PLAN: A Wabtec internal process used to look at the strategy for the upcoming 3 ‚Äì 5 years; developing goals and the strategies to implement these goals (commercial, marketing, technology, etc.)"
 SOD,STRENGTH OF DEFENSE
 SAP,SUPPLIER ACCOUNTABILITY PROCESS
 SBM,SUPPLIER BUSINESS MANAGEMENT
@@ -271,6 +270,3 @@ WIP,WORK IN PROCESS: A production job that is in the process of being built
 WC,WORKCENTER
 WF,"WORKFLOW: Usually built within an application, this is used to move ""paperwork"" around to several owners"
 WCC,WORKING CAPITAL CYCLE
-,
-,
-,
